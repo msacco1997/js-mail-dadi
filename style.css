@@ -1,0 +1,23 @@
+/* MAIL */
+
+#mail-control, .dice-game{
+    display: none;
+  }
+  
+  #mail-control.active, .dice-game.active{
+    display: block;
+  }
+  
+  .#btn-mail, .btn-dice{
+    display: block;
+  }
+  
+  .#btn-mail.active, .btn-dice.active{
+    display: none;
+  }
+  
+  /* DADI */
+  
+  .risultato-utente, .risultato-pc{
+    padding: 30px;
+  }
